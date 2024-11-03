@@ -15,4 +15,9 @@ https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FUN.2016.22
 
 https://erikdemaine.org/papers/2048_CCCG2020/paper.pdf
 
+https://daslerpc.github.io/assets/papers/2015-06-22_CG_YRF.pdf
+
+https://par.nsf.gov/servlets/purl/10253546
+
+
 
