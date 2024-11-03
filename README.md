@@ -1,5 +1,5 @@
 # 2048Unraveled
-Predicting Antecedent States in Single-Player Stochastic Puzzle Games
+## Predicting Antecedent States in Single-Player Stochastic Puzzle Games
 
 Single-Player Stocastic Puzzle Games offer a special challenge for the player. While the player is trying to solve the problem the puzzle itself is stochastically (randomly) changing. Games of this characteristic include tetris, mine sweeper, and 2048 (which will be the focus of our study). As a matter of fact, solving 2048 is an NP-hard problem due to the stochastic element making it hard to plan for future moves. While it is already known that it is difficult to get a high score in 2048 because of its constantly changing nature, predicting the anteceding state of the game leading to any given state has yet to be explored to my knowledge. 
 
