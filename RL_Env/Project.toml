@@ -1,0 +1,4 @@
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+ReinforcementLearningCore = "de1b191a-4ae0-4afa-a27b-92d07f46b2d6"
+ReinforcementLearningExperiments = "6bd458e5-1694-412f-b601-3a888375c491"
